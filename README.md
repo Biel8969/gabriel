@@ -6,7 +6,6 @@ Meu nome é Gabriel da Silva Rodrigues
 
 ![](https://media1.tenor.com/m/HDXV9N8cwC8AAAAC/demon-slayer-kimetsu-no-yaiba.gif)
 ![](https://media1.tenor.com/m/sAvRusHNws4AAAAC/cool-awesome.gif)
-![](https://media1.tenor.com/m/p__4vHwws5AAAAAd/ace-ventura-thumbs-up.gif)
 ![](https://media1.tenor.com/m/3YrtGiR0wy0AAAAd/yeah-excellent.gif)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
